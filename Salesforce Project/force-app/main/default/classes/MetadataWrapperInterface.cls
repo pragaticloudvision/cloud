@@ -1,0 +1,2 @@
+Public virtual class  MetadataWrapperInterface{
+}
